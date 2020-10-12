@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <title> Assignment3- ice cream </title>
+
+    <style type="text /css>
+
+         h1
+       { 
+            colour: white;
+            bockground-colour : orange;
+            text-align:centre;
+        }
+     </style>
+
+   </head>
+
+   <body>
+        <h1> ice cream </h1>
+
+   <img src= "jpg" width=500,height=500></div>
+   <h3> <u> what is ice cream </u> </h3>
+
+   <block quote>
+   </b></bq>
+   <p>
+
